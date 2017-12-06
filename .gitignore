@@ -1,0 +1,20 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files. 
+
+# dependencies
+App/node_modules
+
+# testing
+App/coverage
+
+# production
+App/build
+
+#Authentication
+Server/authentication.js
+
+#Hiden Files
+.*
+
+#But Not
+!.gitignore
+
